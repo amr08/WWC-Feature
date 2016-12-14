@@ -14,3 +14,10 @@ Challenges: Prior to this project, I had not worked with Ruby before so there wa
 			challenging to work with a large, active codebase. It was crucial to be very careful about workflow in order to avoid conflicts (e.g., rebasing daily, restructiong schemadb weekly, etc).
 
 Outcome: 	Success! Google Places API JavaScript feature integrated into Ruby on Rails
+
+
+[logo]: https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/IntroDemo.gif?token=AQcMnPhrrS1VNd5PodVcd9R-tUuIYOU5ks5YWtFRwA%3D%3D "Intro/Goal"
+
+[logo]: https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/GeocodeMap.gif?token=AQcMnLYE1TVre7qAAUr76r_Y6BDn33CMks5YWtEiwA%3D%3D "Map Functionality"
+
+
