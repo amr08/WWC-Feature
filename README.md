@@ -21,7 +21,7 @@
 
 
 ### Google Maps Autocomplete Functionality
-![](https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/GeocodeMap.gif?token=AQcMnLYE1TVre7qAAUr76r_Y6BDn33CMks5YWtEiwA%3D%3D)
+![](assets/GeocoderMap.gif)
 
 <br>
 
