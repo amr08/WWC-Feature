@@ -17,7 +17,7 @@
 
 
 ### Intro to Demo/Goal of Feature
-![](https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/IntroDemo.gif?token=AQcMnPhrrS1VNd5PodVcd9R-tUuIYOU5ks5YWtFRwA%3D%3D)
+![](assets/IntroDemo.gif)
 
 
 ### Google Maps Autocomplete Functionality
