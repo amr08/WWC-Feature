@@ -16,8 +16,8 @@ Challenges: Prior to this project, I had not worked with Ruby before so there wa
 Outcome: 	Success! Google Places API JavaScript feature integrated into Ruby on Rails
 
 
-[https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/IntroDemo.gif?token=AQcMnPhrrS1VNd5PodVcd9R-tUuIYOU5ks5YWtFRwA%3D%3D]: https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/IntroDemo.gif?token=AQcMnPhrrS1VNd5PodVcd9R-tUuIYOU5ks5YWtFRwA%3D%3D "Intro/Goal"
+![Intro/Goal]: https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/IntroDemo.gif?token=AQcMnPhrrS1VNd5PodVcd9R-tUuIYOU5ks5YWtFRwA%3D%3D "Intro/Goal"
 
-[https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/IntroDemo.gif?token=AQcMnPhrrS1VNd5PodVcd9R-tUuIYOU5ks5YWtFRwA%3D%3D]: https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/GeocodeMap.gif?token=AQcMnLYE1TVre7qAAUr76r_Y6BDn33CMks5YWtEiwA%3D%3D "Map Functionality"
+![Map Functionality]: https://raw.githubusercontent.com/amr08/WWC-Feature/master/assets/GeocodeMap.gif?token=AQcMnLYE1TVre7qAAUr76r_Y6BDn33CMks5YWtEiwA%3D%3D "Map Functionality"
 
 
