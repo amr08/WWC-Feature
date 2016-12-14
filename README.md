@@ -25,4 +25,4 @@
 
 <br>
 
-**Note:**  Code is privately owned by WWC and is not publically available for this demo.
+**Note:**  Code is owned by WWC and is not publically available for this demo.
