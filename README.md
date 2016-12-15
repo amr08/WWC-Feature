@@ -15,14 +15,14 @@
 **Outcome:** 	Success! Google Places API JavaScript feature integrated into Ruby on Rails.
 
 
-### Intro to Demo/Goal of Feature
+### Intro to Demo
 ![](assets/DemoLiveSite.gif)
 
 
 ### Google Maps Autocomplete Functionality
 ![](assets/Geocoding.gif)
 
-### Final Product (without uploading pictures)
+### Complete UI (without uploading pictures)
 ![](assets/Final.gif)
 
 
