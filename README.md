@@ -5,7 +5,7 @@
 ## Women Who Code (WWC), a Global Non-Profit Organization, was looking for assistance fixing a bug in their current "Create a New Network" internal application.		 
 
 **Problem:**  	Geocoder Gem was inaccurate and allowed users (WWC employees) to submit 
-            words other than locations.  Did not document lat and lng at times.
+            words other than locations and therefore did not capture latitude and longitude coordinates.
 
 **Task:**       Implement Google Maps feature seamlessly on top of Ruby without disrupting the      	
             current framework as this was an active page.
