@@ -12,7 +12,7 @@
 
 **Challenges:** Prior to this project, I had not worked with Ruby so there was a bit of a learning curve to navigate the Dev 			 Environment.  Because this was a large, active codebase, it was crucial to be careful about workflow in order to avoid conflicts (e.g., rebasing daily, updating schemaDB often, etc).
 
-**Outcome:** 	Success! Google Places API JavaScript feature integrated into Ruby on Rails.
+**Outcome:** 	Success! Google Places API JavaScript feature with autocomplete and autopopulate integrated into Ruby on Rails.
 
 
 ### Intro to Demo
