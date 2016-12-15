@@ -16,7 +16,7 @@
 
 
 ### Intro to Demo/Goal of Feature
-![](assets/IntroDemo.gif)
+![](assets/DemoLiveSite.gif)
 
 
 ### Google Maps Autocomplete Functionality
