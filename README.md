@@ -2,7 +2,7 @@
 # Google Places API JavaScript feature integrated into Ruby on Rails
 
 
-## Women Who Code (WWC), a Global Non-Profit Organization, was looking for assistance fixing a bug in their current "Create a New Network" application.		 
+## Women Who Code (WWC), a Global Non-Profit Organization, was looking for assistance fixing a bug in their current "Create a New Network" internal application.		 
 
 **Problem:**  	Geocoder Gem was inaccurate and allowed users (WWC employees) to submit 
             words other than locations.  Did not document lat and lng at times.
@@ -20,7 +20,11 @@
 
 
 ### Google Maps Autocomplete Functionality
-![](assets/GeocoderMap.gif)
+![](assets/Geocoding.gif)
+
+### Final Product (without uploading pictures)
+![](assets/Final.gif)
+
 
 <br>
 
